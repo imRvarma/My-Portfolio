@@ -51,13 +51,13 @@ toggleBtn.addEventListener('click', () => {
 
 🤝 Connect With Me
 
-🌍 Portfolio Websit :
+🌍 Portfolio Websit : https://rahulichari-portfolio-website.netlify.app/
 
 💼 LinkedIn : https://www.linkedin.com/in/rahul-kumar-105068257/
 
-🐙 GitHub :
+🐙 GitHub : https://github.com/imRvarma
 
 📧 Email: rahulichari@gmail.com.com
 
-## 🖼️ 1️⃣ Local Image
+## 🖼️ 1️⃣ Screenshot
 ![Portfolio Screenshot](./My-portfolio/port-img.jpg)
