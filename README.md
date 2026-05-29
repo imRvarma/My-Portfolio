@@ -60,4 +60,4 @@ toggleBtn.addEventListener('click', () => {
 📧 Email: rahulichari@gmail.com.com
 
 ## 🖼️ 1️⃣ Screenshot
-![Portfolio Screenshot](./My-portfolio/image.png)
+![Portfolio Screenshot](./image.png)
